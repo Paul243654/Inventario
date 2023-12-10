@@ -4,7 +4,7 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QDialog
 from PyQt5.QtCore import *
 from PyQt5.QtCore import QTimer, QTime, Qt
-
+#Ini
 class Acerca_de(QDialog):
     def __init__(self):
         super().__init__()
