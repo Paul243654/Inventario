@@ -2,10 +2,10 @@
 
 # Introducción
 
-<img align="left" width="460" height="500" src="https://github.com/Paul243654/Inventario/assets/112754073/c9e3c0c5-e10f-4881-b360-08387d635cf8">
+<img align="left" width="440" height="500" src="https://github.com/Paul243654/Inventario/assets/112754073/c9e3c0c5-e10f-4881-b360-08387d635cf8">
 
 <p align="center">
-  <img width="460" height="500" src="https://github.com/Paul243654/Inventario/assets/112754073/feed961d-909c-4eed-9816-7a5b107ce92f">   
+  <img width="440" height="500" src="https://github.com/Paul243654/Inventario/assets/112754073/feed961d-909c-4eed-9816-7a5b107ce92f">   
 </p>
 
 # Descripción
