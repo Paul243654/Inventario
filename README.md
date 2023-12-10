@@ -1,4 +1,4 @@
-# <h1 align="center"> Gestión de stocks </h1>
+# <h1 align="center"> Registros de la preparación de pedidos </h1>
 
 # Introducción
 
