@@ -12,8 +12,10 @@ Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de tod
 </p>
 
 
+
 En la primera imagen tenemos el ejecutable que se encarga de realizar el cruce de archivos, ademas una vez acabado, tiene la opción de poder consultar el stock.
 La segunda imagen nos muestra el formulario de entrada de los registros de errores, que se almacenan en una base de dato portable, para su posterior consulta.
+
 
 ## Descripción
 
