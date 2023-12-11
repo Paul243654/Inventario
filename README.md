@@ -17,7 +17,8 @@ Extraemos ficheros "csv" de la base de datos de la empresa, se realiza cruce de 
 
 ## Estado
 
-![en_construccion](https://github.com/Paul243654/Inventario/assets/112754073/87c65bc9-2f07-49e5-8585-ead0b149ca9e)
+![ready](https://github.com/Paul243654/Inventario/assets/112754073/5c545ff9-e225-48bb-9cbb-b6ad6300ea7f)
+
 
 ## Funcionalidades
 
