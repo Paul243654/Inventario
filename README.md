@@ -36,6 +36,9 @@ El listado de stocks generado nos permitira:
 
 ![excel_fichero](https://github.com/Paul243654/Inventario/assets/112754073/055bf3cf-a77e-424e-b45a-d39e0c2daaf5)
 
+
+Podemos
+
 ## Autores
 
 Paul Nuñez
