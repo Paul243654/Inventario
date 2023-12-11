@@ -34,10 +34,12 @@ El listado de stocks generado nos permitira:
 - Generar un historial de incidencias, para sobre todo evaluar cada cierto tiempo los errores sistemáticos que se presentan.
   
 
+
 ![excel_fichero](https://github.com/Paul243654/Inventario/assets/112754073/055bf3cf-a77e-424e-b45a-d39e0c2daaf5)
 
 
-Podemos
+Podemos observar en la imagen, el listado generado del stock de todos los artículos, con esta herramienta, el operario realizara un conteo visual y anotar la cantidad real así como tambien alguna observación si la hubiese.
+
 
 ## Autores
 
