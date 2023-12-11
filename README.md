@@ -11,6 +11,10 @@ Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de tod
   <img width="400" height="400" src="https://github.com/Paul243654/Inventario/assets/112754073/feed961d-909c-4eed-9816-7a5b107ce92f">   
 </p>
 
+
+En la primera imagen tenemos el ejecutable que se encarga de realizar el cruce de archivos, ademas una vez acabado, tiene la opción de poder consultar el stock.
+La segunda imagen nos muestra el formulario de entrada de los registros de errores, que se almacenan en una base de dato portable, para su posterior consulta.
+
 ## Descripción
 
 Extraemos ficheros "csv" de la base de datos de la empresa, se realiza cruce de tablas de los ficheros y así poder obtener un listado de stocks ordenado por posiciones y artículo,
