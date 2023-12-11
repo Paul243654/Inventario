@@ -2,8 +2,8 @@
 
 ## Introducción
 
-Una empresa que provee de alimentos a sus clientes, recibe cada mañana en sus almacenes la mercancía, una vez ingresada en el stock, se realiza la preparación de los pedidos y se envian por l atarde del mismo día.
-Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de toda la semana, dado que la mauor parted ela mercancía no puede estar mas de una semana en el almacén, es muy importante tener controlado el stock con la finalidad de enviar todo lo que pida el cliente y evitar perdidas producto de los descuadres de stock.
+Una empresa que sirve alimentos perecederos a sus clientes, recibe cada mañana en sus almacenes la mercancía enviada por sus proveedores, una vez ingresada en el stock, se realiza la preparación de los pedidos y se envian a los clientes por la noche del mismo día.
+Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de toda la semana, dado que la mayor parte de la mercancía no puede estar mas de una semana en el almacén, es muy importante tener controlado el stock, con la finalidad de enviar todo lo que pida el cliente y evitar perdidas, producto de los descuadres de stock.
 
 <img align="left" width="400" height="400" src="https://github.com/Paul243654/Inventario/assets/112754073/c9e3c0c5-e10f-4881-b360-08387d635cf8">
 
@@ -14,12 +14,12 @@ Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de tod
 
 
 En la primera imagen tenemos el ejecutable que se encarga de realizar el cruce de archivos, ademas una vez acabado, tiene la opción de poder consultar el stock.
-La segunda imagen nos muestra el formulario de entrada de los registros de errores, que se almacenan en una base de dato portable, para su posterior consulta.
+La segunda imagen nos muestra el formulario de entrada de los registros de errores, que se almacenan en una base de dato portable, para un posterior tratamiento de datos.
 
 
 ## Descripción
 
-Extraemos ficheros "csv" de la base de datos de la empresa, se realiza cruce de tablas de los ficheros y así poder obtener un listado de stocks ordenado por posiciones y artículo,
+Extraemos ficheros "csv" de la base de datos de la empresa, la aplicación realiza el cruce de tablas de los ficheros, obteniendo un listado de stocks, ordenado por posiciones y código de artículo.
 
 ## Estado
 
