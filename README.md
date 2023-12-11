@@ -25,6 +25,7 @@ El listado de stocks generado nos permitira:
 - Realizar un inventario visual y poder detectar los artículos que presentan incidencia.
 - Corregir la incidencia y actualizar el stock informáticamente.
 - Generar un historial de incidencias, para sobre todo evaluar cada cierto tiempo los errores sistemáticos que se presentan.
+  
 
 ![excel_fichero](https://github.com/Paul243654/Inventario/assets/112754073/055bf3cf-a77e-424e-b45a-d39e0c2daaf5)
 
