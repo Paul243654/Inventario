@@ -39,6 +39,7 @@ El listado de stocks generado nos permitira:
 
 
 Podemos observar en la imagen, el listado generado del stock de todos los artículos, con esta herramienta, el operario realizara un conteo visual y anotar la cantidad real así como tambien alguna observación si la hubiese.
+Si hubiese descuadre de stock, se revisarían los artículos marcados y se procedería a solucionar la incidencia para finalmente registrala en la base de datos portable.
 
 
 ## Autores
