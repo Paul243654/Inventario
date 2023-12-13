@@ -12,14 +12,13 @@ Cada recepción de mercancía en el almacén, se aprovisiona para ir sirviendo a
 </p>
 
 
-
-En la primera imagen tenemos el ejecutable que se encarga de realizar el cruce de archivos, ademas una vez acabado, tiene la opción de poder consultar el stock.
+En la primera imagen tenemos el ejecutable que se encarga de realizar el cruce de archivos que contienen las tablas de clientes, pedidos, ruta, stock, generando un listado de stocks y otro detallado de la mercancía servida, ademas una vez acabado, tiene la opción de poder realizar consultas.
 La segunda imagen nos muestra el formulario de entrada de los registros de errores, que se almacenan en una base de dato portable, para un posterior tratamiento de datos.
 
 
 ## Descripción
 
-Extraemos ficheros "csv" de la base de datos de la empresa, la aplicación realiza el cruce de tablas de los ficheros, obteniendo un listado de stocks, ordenado por posiciones y código de artículo.
+Extraemos ficheros "csv" de la base de datos maestra de la empresa, la aplicación realiza el cruce de tablas de los ficheros, obteniendo un listado de stocks, ordenado por posiciones y código de artículo y otro listado detallado de la mercancía servida.
 
 ## Estado
 
