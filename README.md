@@ -20,6 +20,11 @@ La segunda imagen nos muestra el formulario de entrada de los registros de error
 
 Extraemos ficheros "csv" de la base de datos maestra de la empresa, la aplicación realiza el cruce de tablas de los ficheros, obteniendo un listado de stocks, ordenado por posiciones y código de artículo y otro listado detallado de la mercancía servida.
 
+
+## Desarrollo
+
+Para el tratamiento de datos se ha utilizado Python, para la interfaz gráfica se ha utilizado QT Designer y como base de datos portabe se ha utilizado SQlite 3.
+
 ## Estado
 
 ![ready](https://github.com/Paul243654/Inventario/assets/112754073/5c545ff9-e225-48bb-9cbb-b6ad6300ea7f)
