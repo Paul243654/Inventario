@@ -2,8 +2,8 @@
 
 ## Introducción
 
-Una empresa que sirve alimentos perecederos a sus clientes, recibe cada mañana en sus almacenes la mercancía enviada por sus proveedores, una vez ingresada en el stock, se realiza la preparación de los pedidos y se envian a los clientes por la noche del mismo día.
-Cada recepción de mercancía se aprovisiona para ir sirviendo a lo largo de toda la semana, dado que la mayor parte de la mercancía no puede estar mas de una semana en el almacén, es muy importante tener controlado el stock, con la finalidad de enviar todo lo que pida el cliente y evitar perdidas, producto de los descuadres de stock.
+Una empresa que sirve alimentos perecederos a sus clientes, recibe cada mañana en sus almacenes, la mercancía a granel enviada por sus proveedores. Una vez ingresada en el stock, se realiza la preparación de los pedidos y se envian a los clientes por la noche del mismo día.
+Cada recepción de mercancía en el almacén, se aprovisiona para ir sirviendo a lo largo de toda la semana, dado que la mayor parte de la mercancía no puede estar mas de una semana almacenada, es muy importante tener controlado el stock, con la finalidad de enviar todo lo que pida el cliente y evitar perdidas, producto de los descuadres de stock.
 
 <img align="left" width="400" height="400" src="https://github.com/Paul243654/Inventario/assets/112754073/c9e3c0c5-e10f-4881-b360-08387d635cf8">
 
